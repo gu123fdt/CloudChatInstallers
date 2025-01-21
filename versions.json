@@ -1,1 +1,8 @@
-{}
+{
+  "version": "1.0.0",
+  "versions": {
+    "windows": "CloudChatInstaller-1.0.0.exe",
+    "linux": "CloudChatInstaller-1.0.0.deb",
+    "macos": "CloudChatInstaller-1.0.0.dmg"
+  }
+}
